@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**Paraliesa/Paraliesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Welcome to my GitHub!**
 
-Here are some ideas to get you started:
+我是一个热爱编程和技术探索的开发者，目前主要专注于以下领域：  
+I’m a passionate developer who loves coding and exploring new technologies. My main areas of focus include:  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 **Web 开发**：Django + Vue3 全栈  
+- 🌐 **Web Development**: Full-stack with Django + Vue3  
+
+我喜欢通过项目实践新技术，不断优化和打磨自己的代码！✨  
+I enjoy learning through hands-on projects, constantly improving and refining my code! ✨  
+  
+  
+## 📊 GitHub Stats  
+  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+  
+---  
+  
+## 🤝 联系我 Connect with Me  
+  
+- 📮 **Email**: 13799326@qq.com  
+- 🔗 **osu**: Paraliesa((https://osu.ppy.sh/users/30595368))  
+  
+---  
+  
+_✨ Powered by passion, curiosity, and endless cups of coffee!_ ☕  
+although I do not drink coffee O.o
